@@ -44,7 +44,7 @@ Bellissimo is optimized for:
 ## Screenshots
 
 ### JavaScript / TypeScript
-![JavaScript](./images/the.png)
+![JavaScript](./images/js.png)
 
 ## License
 
