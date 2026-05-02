@@ -4,7 +4,13 @@ All notable changes to the "bellissimo" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.2] - 2026-05-02
+## [1.0.6] - 2026-05-02
+
+### Added
+- New **Interactive Walkthrough**: A guided onboarding experience to help you set up Bellissimo perfectly.
+- Custom illustrations for theme variants and setup steps.
+
+## [1.0.1] - 2026-05-02
 
 ### Added
 - New **Bellissimo Midnight** variant: A deep, high-contrast dark theme optimized for OLED displays.

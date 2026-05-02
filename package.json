@@ -2,7 +2,7 @@
     "name": "bellissimo",
     "displayName": "Bellissimo",
     "description": "A sophisticated and elegant dark theme for VS Code with carefully selected colors for high readability and style.",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "publisher": "benhanansubendran",
     "icon": "images/logo.png",
     "galleryBanner": {
@@ -56,6 +56,42 @@
                 "id": "bellissimo-icons",
                 "label": "Bellissimo Icons",
                 "path": "./bellissimo-icon-theme.json"
+            }
+        ],
+        "walkthroughs": [
+            {
+                "id": "bellissimo-welcome",
+                "title": "Welcome to Bellissimo",
+                "description": "Get started with your new sophisticated theme collection.",
+                "steps": [
+                    {
+                        "id": "select-theme",
+                        "title": "Choose your Style",
+                        "description": "Bellissimo comes with three distinct variants. Pick the one that fits your environment best.\n[Select Theme](command:workbench.action.selectTheme)",
+                        "media": {
+                            "svg": "images/walkthrough-variants.svg",
+                            "altText": "Bellissimo Theme Variants"
+                        }
+                    },
+                    {
+                        "id": "select-icons",
+                        "title": "Complete the Look",
+                        "description": "Don't forget to enable the matching Bellissimo Icon Theme for a cohesive experience.\n[Select Icon Theme](command:workbench.action.selectIconTheme)",
+                        "media": {
+                            "svg": "icons/folder.svg",
+                            "altText": "Bellissimo Icons"
+                        }
+                    },
+                    {
+                        "id": "enjoy",
+                        "title": "You're all set!",
+                        "description": "Thank you for installing Bellissimo. We hope you enjoy your new coding environment.\n[Join the community](https://github.com/hanancs/bellissimo)",
+                        "media": {
+                            "svg": "images/walkthrough-done.svg",
+                            "altText": "Finished setup"
+                        }
+                    }
+                ]
             }
         ]
     }
