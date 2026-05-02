@@ -1,7 +1,6 @@
 # Bellissimo VS Code Theme
 
-[![Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/benhanansubendran.bellissimo?style=flat-square&color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=benhanansubendran.bellissimo)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/benhanansubendran.bellissimo?style=flat-square&color=orange&label=installs)](https://marketplace.visualstudio.com/items?itemName=benhanansubendran.bellissimo)
+[![Marketplace Version](https://badgen.net/vs-marketplace/v/benhanansubendran.bellissimo?color=blue&label=version)](https://marketplace.visualstudio.com/items?itemName=benhanansubendran.bellissimo)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/hanancs/bellissimo/publish.yml?branch=master&style=flat-square&label=build)](https://github.com/hanancs/bellissimo/actions)
 
 **Bellissimo** is a sophisticated and elegant theme collection for Visual Studio Code. Designed with high readability and aesthetics in mind, it provides a comfortable coding environment for long sessions.
