@@ -1,0 +1,32 @@
+{
+	"iconDefinitions": {
+		"file": {
+			"iconPath": "./icons/file.svg"
+		},
+		"folder": {
+			"iconPath": "./icons/folder.svg"
+		},
+		"folder_open": {
+			"iconPath": "./icons/folder-open.svg"
+		},
+		"js": {
+			"iconPath": "./icons/js.svg"
+		},
+		"ts": {
+			"iconPath": "./icons/ts.svg"
+		}
+	},
+	"file": "file",
+	"folder": "folder",
+	"folderExpanded": "folder_open",
+	"fileExtensions": {
+		"js": "js",
+		"cjs": "js",
+		"mjs": "js",
+		"ts": "ts"
+	},
+	"fileNames": {
+		"package.json": "js",
+		"tsconfig.json": "ts"
+	}
+}

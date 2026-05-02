@@ -1,10 +1,14 @@
 {
     "name": "bellissimo",
-    "displayName": "bellissimo",
-    "description": "A VS Code Theme Extension",
-    "version": "0.0.2",
+    "displayName": "Bellissimo",
+    "description": "A sophisticated and elegant dark theme for VS Code with carefully selected colors for high readability and style.",
+    "version": "1.0.0",
     "publisher": "benhanansubendran",
     "icon": "images/logo.png",
+    "galleryBanner": {
+        "color": "#171c28",
+        "theme": "dark"
+    },
     "author": {
         "name": "Ben Hanan Subendran",
         "email": "benhanan.subendran@gmail.com"
@@ -14,23 +18,44 @@
         "url": "https://github.com/hanancs/bellissimo"
     },
     "engines": {
-        "vscode": "^1.58.0"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
     ],
     "keywords": [
-        "Themes",
-        "Dark Theme",
-        "color-theme",
-        "bellisimo"
+        "bellissimo",
+        "dark",
+        "elegant",
+        "vibrant",
+        "high contrast",
+        "midnight",
+        "light",
+        "color-theme"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "bellissimo",
+                "label": "Bellissimo",
                 "uiTheme": "vs-dark",
                 "path": "./themes/bellissimo-color-theme.json"
+            },
+            {
+                "label": "Bellissimo Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bellissimo-midnight-color-theme.json"
+            },
+            {
+                "label": "Bellissimo Light",
+                "uiTheme": "vs",
+                "path": "./themes/bellissimo-light-color-theme.json"
+            }
+        ],
+        "iconThemes": [
+            {
+                "id": "bellissimo-icons",
+                "label": "Bellissimo Icons",
+                "path": "./bellissimo-icon-theme.json"
             }
         ]
     }
